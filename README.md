@@ -14,5 +14,4 @@ After we go through the intro notebook together, you can choose one (or more!) o
 2. Time Series (Patch Clamp Vm) Analysis
 3. Fluorenscene Image Analysis
 4. RNASeq Analysis and Visualization
-<br>
-Thanks to the [Allen Institute for Brain Science](https://portal.brain-map.org/) and the [Linnarson Lab](http://linnarssonlab.org/) for providing open data sets, and the [Hughes Lab](https://www.ethanhugheslab.com/) (Helena Barr specifically) for unpublished data!
+<br><br>Thanks to the [Allen Institute for Brain Science](https://portal.brain-map.org/) and the [Linnarson Lab](http://linnarssonlab.org/) for providing open data sets, and the [Hughes Lab](https://www.ethanhugheslab.com/) (Helena Barr specifically) for unpublished data!

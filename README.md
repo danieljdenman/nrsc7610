@@ -6,7 +6,7 @@
 This is an introduction to python for neuroscience, prepared for CU Anschutz NRSC7610 Systems Neuroscience and the CU Anschutz Neuroscience Graduate program
 <br>
 <br>
-An instructor-led introductory notebook (Jupyter notebook, that is), NRSC7610_intro.ipynb, is the place to start. The class will all run this notebook together, including the instructor, to get a feel for the basic syntax of Python and the flow of using a Jupyter notebook for data exploration and analysis.
+An instructor-led introductory notebook (Jupyter notebook, that is), NRSC7610_intro.ipynb, is the place to start. The class will all begin by running this notebook together, including the instructor, to get a feel for the basic syntax of Python and the flow of using a Jupyter notebook for data exploration and analysis. Students will complete the remainder of the Intro notebook in small groups or on their own, to develop confidence in independent coding. 
 <br>
 <br>
 ### optional extension and practice

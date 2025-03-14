@@ -1,7 +1,7 @@
 # Introduction to Python and Jupyter notebooks for Neuroscience
 ## NRSC 7610, Systems Neuroscience
 ### University of Colorado School of Medicine, Anschutz Medical Campus
-#### Daniel J Denman, 11 March 2024
+#### Daniel J Denman, 10 March 2024
 
 This is an introduction to python for neuroscience, prepared for CU Anschutz NRSC7610 Systems Neuroscience and the CU Anschutz Neuroscience Graduate program
 <br>
